@@ -8,3 +8,4 @@ I've got an original G4 Mac Mini with 512MB of RAM and no airport card. It's bee
 
 This will be a slow project. First I'm listing some reference web pages. Expect this list to grow over time.
 * [PowerPCFAQ](https://wiki.ubuntu.com/PowerPCFAQ) from the ubuntu wiki.
+* [Debian install instructions](http://www.sowerbutts.com/linux-mac-mini/) from William R Sowerbuts.
