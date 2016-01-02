@@ -1,0 +1,67 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body {
+    background-image: url(/branding.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+}
+div.white, div.container {
+	border-radius: 10px;
+	background-color: white;
+	background-color: rgba(255, 255, 255, 0.9);
+	border: 2px solid #202D60;
+	max-width: 800px;
+	margin: 0 auto;
+    padding: 10px;
+}
+ol, ul { 
+    color: #202D60;
+    font-size: 1.2rem;
+}
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    list-style: none;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1em;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a:link {
+    color: #292A67;
+}
+a:visted
+{
+    color: #E0CAEC;
+}
+h1 {
+    font-size: 2.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color:#202D60;
+    text-align:center;
+}
+h2 {
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color:#202D60;
+}
+h3 {
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color:#202D60;
+}
+p {
+    font-size: 1.2rem;
+    color: #202D60;
+}
+
+footer {
+    font-size: .8em;
+}
