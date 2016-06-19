@@ -10,3 +10,6 @@ This will be a slow project. First I'm listing some reference web pages. Expect 
 
 * [PowerPCFAQ](https://wiki.ubuntu.com/PowerPCFAQ) from the Ubuntu wiki.
 * [Debian install instructions](http://www.sowerbutts.com/linux-mac-mini/) from William R Sowerbuts.
+* [Airplay server - forked-daapd](https://ejurgensen.github.io/forked-daapd/#getting-started)
+
+Edited 2016/06/18
